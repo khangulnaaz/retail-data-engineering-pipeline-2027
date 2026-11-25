@@ -1,0 +1,3 @@
+order_id,customer_id,product_id,order_date,quantity,unit_price,discount,payment_method,order_status,order_total
+O50055,C1068,P2032,2024-05-10,3.0,,0.05,Debit Card,Delivered,
+O50180,C1032,P2024,2025-02-08,5.0,,0.2,Cash,Delivered,

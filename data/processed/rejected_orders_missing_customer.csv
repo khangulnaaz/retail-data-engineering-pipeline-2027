@@ -1,0 +1,7 @@
+order_id,customer_id,product_id,order_date,quantity,unit_price,discount,payment_method,order_status,order_total
+O50010,C9999,P2052,2024-05-31,3.0,922.25,0.2,Cash,Delivered,2213.4
+O50026,C1047,P2028,2025-12-04,4.0,7296.63,0.2,Net Banking,Delivered,23349.22
+O50111,C1047,P2055,2025-04-13,1.0,4452.69,0.05,Upi,Delivered,4230.06
+O50429,C1047,P2016,2024-02-23,1.0,4560.4,0.15,Net Banking,Delivered,3876.34
+O51151,C1047,P2013,2025-04-09,2.0,1110.8,0.2,Credit Card,Shipped,1777.28
+O51410,C1047,P2005,2025-05-06,3.0,10971.99,0.2,Debit Card,Returned,26332.78

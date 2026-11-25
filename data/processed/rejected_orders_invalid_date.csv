@@ -1,0 +1,3 @@
+order_id,customer_id,product_id,order_date,quantity,unit_price,discount,payment_method,order_status,order_total
+O50077,C1218,P2045,,2.0,11514.87,0.2,Cash,Delivered,18423.79
+O50160,C1084,P2012,,4.0,9736.12,0.2,Cash,Delivered,31155.58

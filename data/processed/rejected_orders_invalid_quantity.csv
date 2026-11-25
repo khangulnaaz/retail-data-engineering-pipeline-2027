@@ -1,0 +1,4 @@
+order_id,customer_id,product_id,order_date,quantity,unit_price,discount,payment_method,order_status,order_total
+O50030,C1027,P2053,2024-01-25,,11456.2,0.15,Net Banking,Shipped,
+O50042,C1061,P2054,2024-08-02,,9274.45,0.05,Net Banking,Shipped,
+O50170,C1001,P2007,2025-11-25,,14308.52,0.1,Net Banking,Returned,

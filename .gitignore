@@ -1,0 +1,67 @@
+# Python virtual environments
+.venv/
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+logs/
+
+# Mac system files
+.DS_Store
+
+# IDE settings
+.vscode/
+.idea/
+
+# Temporary files
+tmp/
+temp/
+
+# Build files
+dist/
+build/# Python virtual environments
+.venv/
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+logs/
+
+# Mac system files
+.DS_Store
+
+# IDE settings
+.vscode/
+.idea/
+
+# Temporary files
+tmp/
+temp/
+
+# Build files
+dist/
+build/
